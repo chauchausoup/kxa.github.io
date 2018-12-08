@@ -1,0 +1,58 @@
+
+  p {
+    color: rgb(0, 0, 0);
+    width: 500px;
+    text-align: center;
+    
+  }
+
+  
+  html {
+    font-size: 15px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Rokkitt', serif; /* this should be the rest of the output you got from Google fonts */
+    background-color: rgb(255, 255, 255);
+  }
+  body {
+    width: 550px;
+    margin: 0 auto;
+    background-color: rgb(236, 233, 229);
+    padding: 20px 20px 20px 20px;
+    
+  }
+  h1 {
+    color:rgb(55, 73, 153);
+    margin: 0;
+    padding: 20px 0;    
+    
+    text-shadow: 0px 0px 0px rgb(117, 112, 112);
+    font-size: 60px;
+    text-align: center;
+
+
+  }
+  button{
+  margin:auto;
+  display:block;
+  padding: 10px 10px 10px 10px;
+  
+}
+  img {
+    display: block;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    
+
+  }
+  
+li{
+  color: darkred;
+}
+
+  
+  p, li {
+    font-size: 20px;    
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    
+   
+  }
